@@ -1,0 +1,15 @@
+spirit.anima 1 has_a.l
+has_a.l 1 end.end
+not.a 3 social.social sexual.sexual belief_in_god.theist
+social.social 1 end.end
+sexual.sexual 2 adverb.ly end.end
+adverb.ly 1 end.end
+belief_in_god.theist 1 end.end
+life.bio 3 study_of.logy dangerous.hazard pertaining_to.logical
+study_of.logy 1 end.end
+dangerous.hazard 1 end.end
+pertaining_to.logical 1 end.end
+self.auto 3 to_move.mate to_fly.pilot drive.mobile
+to_move.mate 1 end.end
+to_fly.pilot 1 end.end
+drive.mobile 1 end.end
